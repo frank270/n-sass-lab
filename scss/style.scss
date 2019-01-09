@@ -1,0 +1,11 @@
+$sass-div-txt-color:#666;
+p{
+    font-size:2rem;
+}
+body{
+    color:red;
+}
+div#sass-div{
+    font-size:1.5rem;
+    color:$sass-div-txt-color;
+}
